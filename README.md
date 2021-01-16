@@ -4,10 +4,10 @@ A react web application that uses the Fake API and allows users to search throug
 
 ## Features
 
--The map displays some markers with the street name as a popup.
--There is a search field to filter out the street names as you type in the field.
--The data grid shows all data except latitude, longitude in a tabular format with sorting and paging. 
--The search filter updates the data in the grid 
+- The map displays some markers with the street name as a popup.
+- There is a search field to filter out the street names as you type in the field.
+- The data grid shows all data except latitude, longitude in a tabular format with sorting and paging. 
+- The search filter updates the data in the grid 
 
 ## Getting Started
 
